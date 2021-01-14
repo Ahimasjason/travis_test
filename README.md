@@ -1,3 +1,3 @@
 # travis_test
 
-To Know how to work with travis CI
+This repo is just to play with Travis CI
